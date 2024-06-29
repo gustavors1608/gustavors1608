@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**gustavors1608/gustavors1608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+def hello_world():
+    print("Olá, mundo! Sou o Gustavo, um dev Iot aprendendo mais sobre dados!")
+```
+> Tenho um espírito inquieto e sigo em constante busca por mais aprendizado, novas experiencias e por descobrir/criar tecnologias que fazem brilhar os olhos.
+<br><br>
+Através de muita curiosidade e diversas perguntas sobre o mundo, obtive um amplo *conhecimento* em diversas áreas da tecnologia, comecei pela eletronica quando era criança ainda, conheci a platatorma Arduino e comecei a me aventurar neste mundo, acabei sendo apresentado para o mundo da *Iot* e me apaixonei, desde entao sigo criando projetos, e o principal *Empreendendo e Aprendendo!*<br>
+Atualmente estou em busca de aprender mais sobre Python para aplicar análise de dados nos dados provenientes dos devices IoT, e com isso *gerar soluções ainda melhores e inovadoras!*
+<br><br>
+No meu [LinkedIn,](https://www.linkedin.com/in/gustavo_stroschon/) você pode ver mais informações sobre mim.
 
-Here are some ideas to get you started:
+#### METAS DE APRENDIZAGEM
+- [x] Programação Back-end.
+- [x] Programação Front-end.
+- [x] Programação Arduino.
+- [X] Eletrônica e Micro-Controladores.
+- [ ] Se Aprofundar mais em Modelagem 3d.
+- [ ] Análise de Dados.
+- [ ] Python para Big Data.
+- [ ] Python para Machine Learning.
+- [ ] Em contante evolução ...🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## LINGUAGENS
+
+[![My languages](https://skillicons.dev/icons?i=js,nodejs,php,mysql,py,cpp,arduino,html,css)](https://skillicons.dev)
+
+`JavaScript` `Node JS` `PHP` `MySQL` `Python` `Arduino` `HTML` `CSS` 
+
+
+## SKILLS
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,obsidian,github,git,figma,linux,raspberrypi,ubuntu,postman,autocad)](https://skillicons.dev)
+
+`VSCode` `Obsidian` `Github` `Figma` `Git` `Linux` `Raspberry Pi` `Ubuntu` `Postman` `Modelagem 3D`
+
+### LEMBRETE!
+
+```markdown
+> Mantenha-se focado e não desista.
+> Sonhos dão trabalho
+```
+🖤🤍
