@@ -22,6 +22,7 @@ No meu [LinkedIn,](https://www.linkedin.com/in/gustavo_stroschon/) você pode ve
 - [ ] Análise de Dados.
 - [ ] Python para Big Data.
 - [ ] Python para Machine Learning.
+- [ ] FastApi para Python.
 - [ ] Em contante evolução ...🚀
 
 
