@@ -19,8 +19,9 @@ No meu [LinkedIn,](https://www.linkedin.com/in/gustavo_stroschon/) você pode ve
 - [x] Programação Arduino.
 - [X] Eletrônica e Microcontroladores.
 - [X] Se Aprofundar mais em Modelagem 3d.
-- [ ] Análise de Dados.
-- [ ] Python para Big Data.
+- [X] Análise de Dados.
+- [X] Python para Big Data.
+- [ ] Scrum e KanBan
 - [ ] Python para Machine Learning.
 - [ ] FastApi para Python.
 - [ ] Em contante evolução ...🚀
