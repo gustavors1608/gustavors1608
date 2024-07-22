@@ -21,7 +21,7 @@ No meu [LinkedIn,](https://www.linkedin.com/in/gustavo_stroschon/) você pode ve
 - [X] Se Aprofundar mais em Modelagem 3d.
 - [X] Análise de Dados.
 - [X] Python para Big Data.
-- [ ] Scrum e KanBan
+- [X] Scrum e KanBan
 - [ ] Python para Machine Learning.
 - [ ] FastApi para Python.
 - [ ] Em contante evolução ...🚀
