@@ -11,7 +11,7 @@ void hello_world(){
 Através de muita curiosidade e diversas perguntas sobre o mundo, obtive um amplo *conhecimento* em diversas áreas da tecnologia, comecei pela eletronica quando era criança ainda, conheci a platatorma Arduino e comecei a me aventurar neste mundo, acabei sendo apresentado para o mundo da *Iot* e me apaixonei, desde entao sigo criando projetos, e o principal *Empreendendo e Aprendendo!*<br>
 Atualmente estou em busca de aprender mais sobre Python para aplicar análise de dados nos dados provenientes dos devices IoT, e com isso *gerar soluções ainda melhores e inovadoras!*
 <br><br>
-No meu [LinkedIn,](https://www.linkedin.com/in/gustavo_stroschon/) você pode ver mais informações sobre mim.
+No meu [LinkedIn,](https://www.linkedin.com/in/gustavo-stroschon/) você pode ver mais informações sobre mim.
 
 #### METAS DE APRENDIZAGEM
 - [x] Programação Back-end.
