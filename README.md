@@ -33,11 +33,6 @@ No meu [LinkedIn,](https://www.linkedin.com/in/gustavo-stroschon/) você pode ve
 
 `JavaScript` `Node JS` `PHP` `MySQL` `Python` `Arduino` `HTML` `CSS` 
 
-<div>
-<a href="https://github.com/gustavors1608">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavors1608&layout=compact&langs_count=10&theme=tokyonight"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavors1608&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
 
 ## SKILLS
 
